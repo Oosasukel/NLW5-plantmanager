@@ -1,3 +1,3 @@
 # NLW5 - Plantmanager
 
-<img width="500" src="./Presentation.png">
+<img width="300" src="./Presentation.png">
